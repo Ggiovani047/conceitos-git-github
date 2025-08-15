@@ -34,3 +34,14 @@ Para salvar a alteração de fato no git
 ```bash
 git commit -m "Mensagem"
 ```
+
+Para baixar as alterações que estão somente no repositório remoto utilizamos o pull. <br>
+**IMPORTANTE:** Sempre de pull antes de subir novas versões na nuvem
+```bash
+git pull
+```
+
+Para enviar todos os commits do local para a nuvem utilizamos o push.
+```bash
+git pull
+```
