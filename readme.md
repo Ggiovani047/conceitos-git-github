@@ -14,6 +14,12 @@ Para iniciar o git ewm uma pasta usamos o init
 ```bash
 git init
 ```
+para vincular o projeto ao github utilizamos o comando remote.<br> 
+**IMPORTANTE** Depois do remote deve ser executado outros 2 comando da página.
+```bash
+git remote add origin <url_do_repositorio>
+```
+
 Para Verificar a situação atual do repositório
 ```bash
 git status
