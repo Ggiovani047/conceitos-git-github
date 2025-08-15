@@ -45,3 +45,8 @@ Para enviar todos os commits do local para a nuvem utilizamos o push.
 ```bash
 git pull
 ```
+
+Para baixar o repositório do github em um novo computador utilizamos o clone.
+```bash
+git <url_do_repositorio>
+```
