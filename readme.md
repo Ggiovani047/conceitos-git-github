@@ -1,5 +1,5 @@
 # Conceitos de Git e Github 
-Este arquivo tem como objetivo armazenar os comandos basicos para a utilização do GIt e Github
+Este arquivo foi desenvolvido em uma aula de programação para internet, e tem como objetivo armazenar os comandos basicos para a utilização do GIt e Github
 
 ## Configuração Inicial
 Rode os comandos no terminal do seu computador
